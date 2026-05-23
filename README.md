@@ -4,15 +4,15 @@ This monorepo contains three projects:
 
 ## Projects
 
-- **ArtWork** - [Directory](./ArtWork)
-- **SquidGame** - [Directory](./SquidGame)
-- **DigitalHunters** - [Directory](./DigitalHunters)
+- **ArtWork** - [Directory]([./ArtWork](https://github.com/tejaswinikadu85-debug/ArtWork))
+- **SquidGame** - [Directory]([./SquidGame](https://github.com/tejaswinikadu85-debug/SquidGame))
+- **DigitalHunters** - [Directory]([./DigitalHunters](https://github.com/tejaswinikadu85-debug/DigitalHunters))
 
 ## Project Pages
 
-- ArtWork: https://tejaswinikadu85-debug.github.io/Assignment_3-monorepo/ArtWork
-- SquidGame: https://tejaswinikadu85-debug.github.io/Assignment_3-monorepo/SquidGame
-- DigitalHunters: https://tejaswinikadu85-debug.github.io/Assignment_3-monorepo/DigitalHunters
+- ArtWork:[ https://tejaswinikadu85-debug.github.io/ArtWork](https://tejaswinikadu85-debug.github.io/ArtWork/)
+- SquidGame: [https://tejaswinikadu85-debug.github.io/SquidGame](https://tejaswinikadu85-debug.github.io/SquidGame/)
+- DigitalHunters: [https://tejaswinikadu85-debug.github.io/DigitalHunters](https://tejaswinikadu85-debug.github.io/DigitalHunters/)
 
 ## Setup
 
