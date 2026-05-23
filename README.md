@@ -4,9 +4,9 @@ This monorepo contains three projects:
 
 ## Projects
 
-- **ArtWork** - [Directory]([./ArtWork](https://github.com/tejaswinikadu85-debug/ArtWork))
-- **SquidGame** - [Directory]([./SquidGame](https://github.com/tejaswinikadu85-debug/SquidGame))
-- **DigitalHunters** - [Directory]([./DigitalHunters](https://github.com/tejaswinikadu85-debug/DigitalHunters))
+- **ArtWork** - [Directory](https://github.com/tejaswinikadu85-debug/ArtWork)
+- **SquidGame** - [Directory]((https://github.com/tejaswinikadu85-debug/SquidGame)
+- **DigitalHunters** - [Directory](https://github.com/tejaswinikadu85-debug/DigitalHunters)
 
 ## Project Pages
 
